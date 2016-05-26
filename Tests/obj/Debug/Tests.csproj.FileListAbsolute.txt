@@ -1,0 +1,15 @@
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\Tests.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\Tests.pdb
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\Machine.Specifications.Clr4.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\Machine.Specifications.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\Machine.Specifications.Should.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\StructureMap.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\StructureMap.Net4.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\StructureMapIntro.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\StructureMapIntro.pdb
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\StructureMap.pdb
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\StructureMap.xml
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\bin\Debug\StructureMap.Net4.pdb
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\obj\Debug\Tests.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\Tests\obj\Debug\Tests.pdb

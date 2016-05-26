@@ -1,0 +1,9 @@
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\bin\Debug\StructureMapIntro.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\bin\Debug\StructureMapIntro.pdb
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\bin\Debug\StructureMap.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\bin\Debug\StructureMap.Net4.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\bin\Debug\StructureMap.pdb
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\bin\Debug\StructureMap.xml
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\bin\Debug\StructureMap.Net4.pdb
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\obj\Debug\StructureMapIntro.dll
+c:\users\relu\documents\visual studio 2013\Projects\StructureMapIntro\StructureMapIntro\obj\Debug\StructureMapIntro.pdb

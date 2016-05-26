@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureMapIntro", "StructureMapIntro\StructureMapIntro.csproj", "{ABFBA9E2-A0D3-4592-B4C8-699D5F1C561F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{83EA1BCD-29B8-4372-9E4D-B5099CD116AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFBA9E2-A0D3-4592-B4C8-699D5F1C561F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFBA9E2-A0D3-4592-B4C8-699D5F1C561F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFBA9E2-A0D3-4592-B4C8-699D5F1C561F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFBA9E2-A0D3-4592-B4C8-699D5F1C561F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83EA1BCD-29B8-4372-9E4D-B5099CD116AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EA1BCD-29B8-4372-9E4D-B5099CD116AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83EA1BCD-29B8-4372-9E4D-B5099CD116AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EA1BCD-29B8-4372-9E4D-B5099CD116AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
